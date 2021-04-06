@@ -2,4 +2,4 @@ Hi! I'm Mathesio, a 15 year old developer from France. I code all sorts of thing
 
 ![Les Stats GitHub de Mathésio](https://github-readme-stats.vercel.app/api?username=Mathesio&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesio&layout=compact)](https://github.com/Mathesio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathesio&layout=compact&theme=radical)](https://github.com/Mathesio/github-readme-stats)
